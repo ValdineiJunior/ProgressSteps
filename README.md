@@ -10,7 +10,7 @@ Progress Steps
 
 <p align="center">
   <a href="https://valdineijunior.github.io/02Project/">
-    <img alt="01Project" src="https://github.com/ValdineiJunior/01Project/blob/main/Layout.png" alt="screenshot" width="100%">
+    <img alt="01Project" src="https://github.com/ValdineiJunior/02Project/blob/main/screenshot.png" alt="screenshot" width="100%">
   </a>
 </p>
 
