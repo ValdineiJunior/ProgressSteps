@@ -5,8 +5,8 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-Progress Steps
 ### 📱 Preview
+Progress Steps
 
 <p align="center">
   <a href="https://valdineijunior.github.io/02Project/">
