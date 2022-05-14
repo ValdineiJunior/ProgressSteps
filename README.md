@@ -1,9 +1,17 @@
 # 02Project
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+
 Progress Steps
 ### 📱 Preview
 
 <p align="center">
-  <img alt="01Project" src="https://github.com/ValdineiJunior/02Project/blob/main/screenshot.png">
+  <a href="https://valdineijunior.github.io/02Project/">
+    <img alt="01Project" src="https://github.com/ValdineiJunior/01Project/blob/main/Layout.png" alt="screenshot" width="100%">
+  </a>
 </p>
 
 ### 💻 Live Preview
