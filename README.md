@@ -8,7 +8,7 @@ Progress Steps
 
 ### 💻 Live Preview
 
-- https://valdineijunior.github.io/01Project/
+- https://valdineijunior.github.io/02Project/
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
